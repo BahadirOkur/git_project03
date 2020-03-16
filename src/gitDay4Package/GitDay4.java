@@ -6,6 +6,9 @@ public class GitDay4 {
 
 		System.out.println("local first commit master branch");
 		
+		for (int i=10; i>=0; i--) {
+			System.out.println(i-10 + "local branch first commit");
+		}
 		
 	}
 
